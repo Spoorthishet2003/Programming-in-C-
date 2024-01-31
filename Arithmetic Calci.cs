@@ -1,3 +1,7 @@
+/*Develop a C# program to simulate simple arithmetic calculator for
+Addition, Subtraction, Multiplication, Division and Mod operations. Read the
+operator and operands through console.*/
+
 using System;
 using System.Collections.Generic;
 using System.Text;
